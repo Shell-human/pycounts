@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "pycounts"
-version = "0.0.1"
+name = "pycounts_shell"
+version = "0.1.0"
 description = "A package to count words in a text file"
 authors = ["Shell"]
 license = "MIT"
